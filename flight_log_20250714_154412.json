@@ -1,0 +1,34 @@
+{
+  "flight_start": "2025-07-14T15:44:12.788497",
+  "movements": [
+    {
+      "segment": 1,
+      "start_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "end_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_time": 1752522262.634241,
+      "end_time": 1752522263.65606,
+      "duration": 1.0218188762664795,
+      "battery_level": 100
+    }
+  ],
+  "sensor_readings": [],
+  "flight_summary": {
+    "initial_position": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "initial_battery": 100
+  }
+}

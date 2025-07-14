@@ -1,0 +1,53 @@
+{
+  "flight_start": "2025-07-14T15:41:19.995717",
+  "movements": [
+    {
+      "segment": 1,
+      "start_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "end_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_time": 1752522093.1091907,
+      "end_time": 1752522094.1310241,
+      "duration": 1.0218334197998047,
+      "battery_level": 0
+    },
+    {
+      "segment": 2,
+      "start_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "end_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_time": 1752522099.2529757,
+      "end_time": 1752522100.2750218,
+      "duration": 1.0220460891723633,
+      "battery_level": 0
+    }
+  ],
+  "sensor_readings": [],
+  "flight_summary": {
+    "initial_position": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "initial_battery": 0
+  }
+}
